@@ -37,4 +37,3 @@ SELECT name, id
 	WHERE sub1.option_3 > sub1.option_2 and sub1.option_3 > sub1.option_1
 	ORDER BY LEFT(name,3), ID ASC;
 	
-END
