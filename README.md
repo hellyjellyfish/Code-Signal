@@ -1,4 +1,2 @@
 # Code-Signal
-
-# Scope
-To showcase a portfolio of selected challenges completed on Code Signal
+Portfolio of selected challenges completed on Code Signal.
