@@ -1,7 +1,5 @@
 
 /*
-At the end of every semester your professor for "Introduction to Databases" saves the exam results of every student in a simple database system. In the database table Grades, there are five columns:
-
 Name: the name of the student;
 ID: the student's ID number (a 5 byte positive integer);
 Midterm1: the result of the first midterm out of 100 points;
